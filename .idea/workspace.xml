@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0906a1d2-f875-40f3-89b8-e323412e5565" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ToDo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ToDo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ToDo.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +36,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Building Applications with React and Redux/my files/react-redux-training" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Styling React Components/my-files" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -94,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585760423600</updated>
-      <workItem from="1585760424885" duration="18878000" />
+      <workItem from="1585760424885" duration="26195000" />
     </task>
     <task id="LOCAL-00001" summary="created a simple start point and installed bootstrap, react-router and react-router-dom.">
       <created>1585779715808</created>
@@ -110,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585865542602</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="created an input field and component.">
+      <created>1585957723204</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585957723204</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +133,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created a simple start point and installed bootstrap, react-router and react-router-dom." />
     <MESSAGE value="added in prettier to help with code formatting." />
-    <option name="LAST_COMMIT_MESSAGE" value="added in prettier to help with code formatting." />
+    <MESSAGE value="created an input field and component." />
+    <option name="LAST_COMMIT_MESSAGE" value="created an input field and component." />
   </component>
 </project>
